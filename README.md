@@ -1,6 +1,6 @@
-# ShopeeFun Product Service
+# ShopeeFun Payment Service
 
-This is a simple product service for ShopeeFun sprint project.
+This is a simple payment service for ShopeeFun sprint project.
 
 ## Developer Guide
 
